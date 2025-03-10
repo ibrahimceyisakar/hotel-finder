@@ -2,6 +2,8 @@
 
 This project is a comprehensive system for scraping hotel data, analyzing it for value, and visualizing the results through an interactive dashboard.
 
+
+
 ## Project Components
 
 The project consists of three main components:
@@ -9,6 +11,11 @@ The project consists of three main components:
 1. **Web Scraping**: Automated scraping of hotel data from obilet.com using Selenium
 2. **Data Analysis**: Calculation of value ratios and identification of top value hotels
 3. **Data Visualization**: Interactive Streamlit dashboard for exploring the hotel data
+
+## Live Demo
+
+The hotel analysis dashboard is deployed and accessible at:
+[https://hotel-analyzer-dashboard-gg78.streamlit.app/](https://hotel-analyzer-dashboard-gg78.streamlit.app/)
 
 ## Documentation
 
