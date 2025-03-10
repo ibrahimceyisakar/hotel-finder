@@ -140,7 +140,7 @@ def main():
     output_csv_path = 'top_value_hotels.csv'
     
     # Number of top hotels to output
-    top_n = 10
+    top_n = 100
     
     # Analyze hotel value and output top hotels
     success = analyze_hotel_value(input_json_path, output_json_path, output_csv_path, top_n)
