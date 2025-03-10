@@ -3,7 +3,6 @@
 This project is a comprehensive system for scraping hotel data, analyzing it for value, and visualizing the results through an interactive dashboard.
 
 
-
 ## Project Components
 
 The project consists of three main components:
