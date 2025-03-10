@@ -2,7 +2,10 @@
 
 This project is a comprehensive system for scraping hotel data, analyzing it for value, and visualizing the results through an interactive dashboard.
 
+## Live Demo
 
+The hotel analysis dashboard is deployed and accessible at:
+[https://hotel-analyzer-dashboard-gg78.streamlit.app/](https://hotel-analyzer-dashboard-gg78.streamlit.app/)
 
 ## Project Components
 
