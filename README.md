@@ -1,19 +1,19 @@
-# Hotel Data Scraper, Analysis, and Visualization
+# Hotel Finder
 
-A comprehensive system for scraping hotel data from obilet.com, analyzing it for value metrics, and visualizing the results through an interactive Streamlit dashboard.
+A system that scrapes hotel prices from obilet.com, analyzes them for value metrics and visualizes the results through an interactive Streamlit dashboard. 
 
 ## 📋 Overview
 
-This project automates the entire process of hotel data collection, analysis, and visualization to help travelers find the best value accommodations. It consists of three main components that work together to:
+This project automates the entire hotel data collection, analysis, and visualization process to help travelers find the best accommodations. It consists of three main components that work together to:
 
 1. **Scrape** hotel listings from obilet.com using Selenium
-2. **Analyze** the data to calculate value ratios and identify top value hotels
+2. **Analyze** the data to calculate value ratios and identify top-value hotels
 3. **Visualize** the results through an interactive Streamlit dashboard
 
 ## 🌟 Key Features
 
 - **Automated Web Scraping**: Extracts detailed hotel information including prices, ratings, features, and locations
-- **Value Analysis Algorithm**: Calculates a value ratio (review score / price) to identify hotels offering the best value for money
+- **Value Analysis Algorithm**: Calculates a value ratio (review score/price) to identify hotels offering the best value for money
 - **Interactive Dashboard**: Provides multiple visualization tabs for exploring different aspects of the hotel data
 - **Data Export**: Saves data in both JSON and CSV formats for further analysis
 - **Configurable Parameters**: Easily adjust search parameters, analysis criteria, and visualization options
@@ -117,7 +117,7 @@ hotel-data-scraper/
 2. **Data Analysis**:
    - Load scraped hotel data
    - Extract numeric values from price strings
-   - Calculate value ratio (review score / price * 1000)
+   - Calculate value ratio (review score/price * 1000)
    - Sort hotels by value ratio
    - Save top N hotels to JSON and CSV files
 
